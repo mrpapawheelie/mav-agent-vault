@@ -1,9 +1,9 @@
-# Maverick Agent Vault (MAV) Standard
+# Maverick Agent Vault Standard (MAVS)
 
 > **Autonomous Capital Powered by Maverick Protocol**
 
 ## Overview
-The Maverick Agent Vault (MAV) is a new standard for creating autonomous, self-contained financial agents that leverage Maverick Protocol's programmable liquidity and non-liquidating borrowing features. Each vault combines liquidity provisioning, capital access, and smart contract automation to form a flywheel for yield generation and reflexive value creation.
+The Maverick Agent Vault Standard (MAVS) is a new standard for creating autonomous, self-contained financial agents that leverage Maverick Protocol's programmable liquidity and non-liquidating borrowing features. Each vault combines liquidity provisioning, capital access, and smart contract automation to form a flywheel for yield generation and reflexive value creation.
 
 ## Key Components
 - **Agent-Controlled Vault:** Smart contract entity that retains part of the token supply and executes pre-programmed strategies.
@@ -12,13 +12,13 @@ The Maverick Agent Vault (MAV) is a new standard for creating autonomous, self-c
 - **Fee Customization:** Creators define swap fees and price bands to optimize pool performance.
 - **Token Economics:** New tokens are created with split allocations—typically 50% market, 50% vault-retained.
 
-## MAV Lifecycle
+## MAVS Lifecycle
 1. **Deploy Token & Vault Contract**
 2. **Seed Liquidity via Maverick Pool**
 3. **Vault Borrows Against Position**
 4. **Agent Executes Onchain Strategy**
 5. **Yield Reinvested / Distributed / Bought Back**
-6. **Performance Tracked via MAV Dashboard**
+6. **Performance Tracked via MAVS Dashboard**
 
 ## Benefits
 - 📈 **Reflexive Price Dynamics**
@@ -34,7 +34,7 @@ The Maverick Agent Vault (MAV) is a new standard for creating autonomous, self-c
 - Multi-agent capital allocators
 
 ## Coming Soon
-- MAV contract template (`AgentVault.sol`)
+- MAVS contract template (`AgentVault.sol`)
 - Flowchart diagrams and vault lifecycle
 - Frontend dashboard components
 - Deployment wizard (CLI + web UI)
@@ -47,4 +47,4 @@ MIT — open for builders, thinkers, and agents.
 ### Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-If you want to experiment with the MAV concept, fork the repo and build your own vault — early contributors will be recognized in the protocol credits. 
+If you want to experiment with the MAVS concept, fork the repo and build your own vault — early contributors will be recognized in the protocol credits. 
