@@ -2,6 +2,17 @@
 
 > **Autonomous Capital Powered by Maverick Protocol**
 
+## Navigation
+- [Overview](#overview)
+- [Key Components](#key-components)
+- [MAVS Lifecycle](#mavs-lifecycle)
+- [Benefits](#benefits)
+- [Use Cases](#use-cases)
+- [Agent Use Case: Dynamic Price Defense with Maverick BP(3,3)](#-agent-use-case-dynamic-price-defense-with-maverick-bp33)
+- [Coming Soon](#coming-soon)
+- [License](#license)
+- [Contributing](#contributing)
+
 ## Overview
 The Maverick Agent Vault Standard (MAVS) is a new standard for creating autonomous, self-contained financial agents that leverage Maverick Protocol's programmable liquidity and non-liquidating borrowing features. Each vault combines liquidity provisioning, capital access, and smart contract automation to form a flywheel for yield generation and reflexive value creation.
 
