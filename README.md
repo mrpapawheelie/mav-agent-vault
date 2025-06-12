@@ -101,6 +101,35 @@ An agent launches a token and retains 50% of the supply in treasury. A portion o
 
 This strategy sets the foundation for an **Agent Vault Standard** where liquidity management, incentive routing, and treasury optimization are fully autonomous, modular, and governed by vote-based meta-strategies. BP(3,3) enables a new class of "programmable liquidity" where agents can deploy capital with persistent incentives and adaptable behavior.
 
+## Goose Agent Framework
+
+Most "agentic" frameworks flex automation. We flex absolution.
+
+Goose Agentic Framework will not let agents touch user funds—on purpose.
+No custody. No pooling. No "we swear it's not a yield farm."
+
+Why?
+
+Because:
+🛑 Regulators nuke anything that smells like asset management.
+🔐 Security risk spikes when agents handle customer funds.
+🤖 Hallucinations compound when agents control too much.
+
+Goose flips it:
+
+The agent uses its own funds, and borrows risk free against them. It's not managing your money—it's managing its mission.
+
+You're not "trusting the AI." You're watching the playbook unfold onchain.
+If the agent's strategies make the token go up, you decide when to buy or sell.
+No promises. No middlemen. Just provable performance you can verify.
+
+Hold a token and want the agent to vote as well? You can delegate votes to the agent, and undelegate whenever you want, super simple, and never handing over the keys. 
+
+This isn't "solving" risk. It's nuking the entire category of risk from orbit.
+Welcome to the least-privilege, most-transparent framework in DeFi.
+
+Agentic, but anti-fragile. Built to last. Built for Base.
+
 ## Coming Soon
 - MAVS contract template (`AgentVault.sol`)
 - Flowchart diagrams and vault lifecycle
