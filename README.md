@@ -103,30 +103,22 @@ This strategy sets the foundation for an **Agent Vault Standard** where liquidit
 
 ## Goose Agent Framework
 
-Most "agentic" frameworks flex automation. We flex absolution.
-
-Goose Agentic Framework will not let agents touch user funds—on purpose.
-No custody. No pooling. No "we swear it's not a yield farm."
+The Goose Agent Framework is designed to eliminate the risks associated with traditional agentic frameworks by ensuring that agents do not handle user funds. This approach avoids custody, pooling, and any resemblance to yield farming.
 
 ### Why?
 
-Because:
-- 🛑 Regulators nuke anything that smells like asset management.
-- 🔐 Security risk spikes when agents handle customer funds.
-- 🤖 Hallucinations compound when agents control too much.
+- 🛑 Regulatory concerns are mitigated by avoiding asset management practices.
+- 🔐 Security risks are reduced as agents do not handle customer funds.
+- 🤖 The risk of hallucinations is minimized by limiting agent control.
 
-### Goose flips it:
+### Key Features
 
-- The agent uses its own funds, and borrows risk free against them. It's not managing your money—it's managing its mission.
-- You're not "trusting the AI." You're watching the playbook unfold onchain.
-- If the agent's strategies make the token go up, you decide when to buy or sell.
-- No promises. No middlemen. Just provable performance you can verify.
-- Hold a token and want the agent to vote as well? You can delegate votes to the agent, and undelegate whenever you want, super simple, and never handing over the keys. 
+- The agent operates using its own funds and borrows risk-free against them, focusing on its mission rather than managing user money.
+- Users can observe the agent's strategies unfold onchain, making informed decisions about buying or selling based on performance.
+- No promises or middlemen; performance is provable and verifiable.
+- Token holders can delegate votes to the agent and undelegate at any time, without relinquishing control of their assets.
 
-This isn't "solving" risk. It's nuking the entire category of risk from orbit.
-Welcome to the least-privilege, most-transparent framework in DeFi.
-
-Agentic, but anti-fragile. Built to last. Built for Base.
+This framework is built to last, offering a transparent and secure approach to DeFi.
 
 ## Coming Soon
 - MAVS contract template (`AgentVault.sol`)
